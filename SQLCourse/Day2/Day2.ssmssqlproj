@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Day2">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="KG_TRAINING14\KUBRICK:KG_Training14\student14">
+          <Created>2016-08-19T10:22:12.9785585+01:00</Created>
+          <Type>SQL</Type>
+          <Server>KG_TRAINING14\KUBRICK</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>AdventureWorks2014</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="joiningtables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING14\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING14\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>joiningtables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="case.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING14\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING14\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>case.sql</FullPath>
+        </FileNode>
+        <FileNode Name="aggregates.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING14\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING14\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>aggregates.sql</FullPath>
+        </FileNode>
+        <FileNode Name="windowfunction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING14\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING14\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>windowfunction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="aggregate2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING14\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING14\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>aggregate2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="counts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING14\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING14\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>counts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="union.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KG_TRAINING14\KUBRICK:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KG_TRAINING14\KUBRICK</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>union.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
